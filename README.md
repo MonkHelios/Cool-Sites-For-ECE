@@ -22,6 +22,12 @@
 - [Instructables](https://www.instructables.com/)
 - [Hackster](https://www.hackster.io/)
 
+## Free 3D models: 
+- [Grabcad](https://grabcad.com/)
+
+## Free Software: 
+- [Share Apps](https://shareappscrack.com/)
+
 
 
 
