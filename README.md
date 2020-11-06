@@ -11,6 +11,7 @@
 - [Nick Gammon's Github](https://github.com/nickgammon)
 
 ## HAM radio, RF & Microwave:
+- [VK5DJ](http://www.vk5dj.com)
 - [WA4DSY](http://www.wa4dsy.net/)
 - [HAMwaves](https://hamwaves.com/index/en/index.html)
 - [TRX Bench's Youtube](https://www.youtube.com/user/TRXBench)
