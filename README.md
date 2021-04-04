@@ -29,7 +29,9 @@
 ## Free Software: 
 - [Share Apps](https://shareappscrack.com/)
 
+## Merchant websites:
+- [Semikart](https://www.semikart.com/)
 
 
 
-`I am starting off with this list, however, I shall be updating it from time to time.`
+`I shall be updating it from time to time.`
