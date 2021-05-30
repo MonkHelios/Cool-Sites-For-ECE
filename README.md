@@ -18,6 +18,9 @@
 - [W2AEW's Youtube](https://www.youtube.com/user/w2aew)
 - [Andrew Mcneil's Youtube](https://www.youtube.com/user/8bitandrewmcneil)
 
+## Hardware Hacking:
+- [Colin O'Flynn](https://colinoflynn.com/)
+
 ## Popular Blogs & Platforms for Ideas:
 - [Hackaday](https://hackaday.com/)
 - [Instructables](https://www.instructables.com/)
