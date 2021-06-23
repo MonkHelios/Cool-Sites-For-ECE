@@ -35,6 +35,9 @@
 ## Merchant websites:
 - [Semikart](https://www.semikart.com/)
 
+## Calculators:
+- [Circuits.dk](https://www.circuits.dk/category/design-calculators/)
+
 
 
 `I shall be updating it from time to time.`
