@@ -5,6 +5,7 @@
 - [eevBlog's Youtube](https://www.youtube.com/user/EEVblog)
 - [Jack Ganssle](http://www.ganssle.com/)
 - [Jack Ganssle's Youtube](https://www.youtube.com/channel/UC067MO4ZVsbA8QDJG0qCTJQ)
+- [Phil's Lab Youtube](https://youtu.be/e45PmIL03rM)
 
 ## Microcontroller stuffs:
 - [Nick Gammon's site](https://gammon.com.au/)
