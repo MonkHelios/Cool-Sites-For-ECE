@@ -18,6 +18,7 @@
 - [TRX Bench's Youtube](https://www.youtube.com/user/TRXBench)
 - [W2AEW's Youtube](https://www.youtube.com/user/w2aew)
 - [Andrew Mcneil's Youtube](https://www.youtube.com/user/8bitandrewmcneil)
+- [Fuzzy The Pi Guy](https://fuzzthepiguy.tech/)
 
 ## Hardware Hacking:
 - [Colin O'Flynn](https://colinoflynn.com/)
